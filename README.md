@@ -8,6 +8,9 @@ Simple Tic-Tac-Toe game implemented with Qt
 
 You can compile the source with [Qt Creator](https://www.qt.io/product/development-tools)
 
+## Technologies
+
+* Qt 4
 
 License
 ----
